@@ -7,8 +7,4 @@ include:
   - endpoints
   - as-datachannel-etl
 
-foo: STUB
-
-new_relic_key : 'STUB'
-
-bar: 'STUB'
+foo: AKIAJXGXZUHEKBVG7O4B
