@@ -1,6 +1,6 @@
 # repo3
 
-access_key_id: 'STUB'
+access_key_id: 'AKIAJXGXZUHEKBVG7O4B'
 
 include:
   - coreservices-db
