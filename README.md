@@ -7,4 +7,4 @@ include:
   - endpoints
   - as-datachannel-etl
 
-foo: STUB
+foo: AKIAJXGXZUHEKBVG7O4B
