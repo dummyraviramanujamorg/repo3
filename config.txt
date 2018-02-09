@@ -1,2 +1,4 @@
 "appName": "MES"
 "env": "dev"
+"aws_access_key_id": "AKIAJXGXZUHEKBVG7O4B"
+"new_relic_key" : "JK76XGXZUHEKBVG7O4BC"
