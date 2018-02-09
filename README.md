@@ -7,4 +7,4 @@ include:
   - endpoints
   - as-datachannel-etl
 
-new_relic_key : 'JK76XGXZUHEKBVG7O4B'
+new_relic_key : 'JK76XGXZUHEKBVG7O4BC'
