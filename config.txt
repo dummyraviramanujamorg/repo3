@@ -1,1 +1,1 @@
-appName: "MES"
+"appName": "MES"
