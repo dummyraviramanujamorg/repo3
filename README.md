@@ -1,10 +1,10 @@
 # repo3
 
-access_key_id: 'AKIAJXGXZUHEKBVG7O4B'
+access_key_id: 'STUB'
 
 include:
   - coreservices-db
   - endpoints
   - as-datachannel-etl
 
-new_relic_key : 'JK76XGXZUHEKBVG7O4BC'
+new_relic_key : 'STUB'
