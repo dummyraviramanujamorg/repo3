@@ -3,4 +3,3 @@ Hello World
 google_captcha_secret: '6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
 google_captcha_secret: '6LeIxAcTBCAAAGG-vFI1TnRWxMZNFuojJ4WifJWe',
 asals
-long serialVersionUID = 5913031415850703404L;
